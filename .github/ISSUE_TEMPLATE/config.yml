@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Feature request
+  - name: (Sample) Feature request
     url: https://github.com/masutakanet/sandbox2/discussions/categories/ideas
     about: Share ideas for new features
-  - name: Ask a question
+  - name: (Sample) Ask a question
     url: https://github.com/masutakanet/sandbox2/discussions/categories/q-a
     about: Ask questions and discuss with other community members
